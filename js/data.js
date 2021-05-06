@@ -96,56 +96,56 @@ const infoList = [
     from: 0,
     to: 60,
     mLeft: '10%',
-    name: '가등록동아리',
+    name: '봉사분과', //'가등록동아리',
     desc: '~~~'
   },
   {
     from: 61,
     to: 70,
     mLeft: '25%',
-    name: '학술분과',
+    name: '종교분과', //'학술분과',
     desc: '~~~'
   },
   {
     from: 71,
     to: 80,
     mLeft: '40%',
-    name: '문예창작분과',
+    name: '체육분과', //'문예창작분과',
     desc: '~~~'
   },
   {
     from: 81,
     to: 90,
     mLeft: '55%',
-    name: '종교분과',
+    name: '공연예술', //'종교분과',
     desc: '~~~'
   },
   {
     from: 91,
     to: 100,
     mLeft: '70%',
-    name: '교양분과',
+    name: '문예창작분과', //'교양분과',
     desc: '~~~'
   },
   {
     from: 101,
     to: 110,
     mLeft: '85%',
-    name: '봉사분과',
+    name: '학술분과', //'봉사분과',
     desc: '~~~.'
   },
   {
     from: 111,
     to: 120,
     mLeft: '85%',
-    name: '공연예술분과',
+    name: '교양분과', //'공연예술분과',
     desc: '~~~.'
   },
   {
     from: 121,
     to: 130,
     mLeft: '85%',
-    name: '체육분과',
+    name: '가등록동아리', //'체육분과',
     desc: '~~~'
   }
 ]
